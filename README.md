@@ -1,6 +1,5 @@
-```
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+```
 ## 🚀 Introdução
 
 Colocar uma introdução aqui. Raíssa responsável.
