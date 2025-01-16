@@ -3,21 +3,22 @@
 
 ## 🚀 Introdução
 
-Colocar uma introdução aqui. Raíssa responsável.
+Com o consumo cada vez mais acessível, muitos jovens brasileiros enfrentam o desafio do superendividamento, impulsionado por pressões sociais e financeiras. Este e-book aborda os índices de inadimplência no Brasil e oferece ferramentas práticas para entender e gerenciar suas finanças de forma consciente e eficiente.
 
-# Colocar aqui um título.
+# Índices de Inadimplência dos Consumidores Superendividados no Brasil
 
 ## 📒 Descrição
-Descrição breve de qual a ideia do seu projeto.
+Fornecer uma análise clara e objetiva sobre o superendividamento no Brasil, incentivando a reflexão e o aprendizado financeiro para uma tomada de decisões mais informada e consciente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para criação do e-book e da imagem
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criar um e-book voltado para jovens que buscam conhecimento e dados sobre o superendividamento no Brasil, requer etapas estratégicas e foco em engajamento.
+Por isso, foram coletadas informações confiáveis e atualizadas sobre índices de inadimplência e superendividamento no Brasil, com utilização de ferramenta de IA para estruturar o e-book em capítulos claros e objetivos, garantindo uma narrativa envolvente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este e-book tem potencial para educar e impactar jovens brasileiros, oferecendo ferramentas para uma vida financeira mais saudável e consciente. A combinação de dados relevantes, linguagem acessível e design envolvente tornará a experiência enriquecedora e transformadora.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
